@@ -1,6 +1,10 @@
 # Fabrixus 
 
+![Fabrixus](../img/250165.png)
+
 * **Fabrixus** is a tool for creating, maintaining and software service for the next version of OSes
+
+Artwork in Public Domain license https://openclipart.org/detail/250165/chip-on-board-with-transparent-epoxy
 
 ## License
 
